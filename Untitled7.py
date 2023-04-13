@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
 
 
 lower_value =1  
@@ -17,7 +14,7 @@ for number in range (lower_value, upper_value + 1):
             print (number)  
 
 
-# In[ ]:
+
 
 
 
